@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280920910766",
+    "project_id": "localeyesassignment-5ed7b",
+    "storage_bucket": "localeyesassignment-5ed7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280920910766:android:69439e3656f895a212b63f",
+        "android_client_info": {
+          "package_name": "com.mr_praveen_jha_.localeyesassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280920910766-dhunq8c20qlqvr37eub4h8v2dh307m9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD7bUFI0wIMGJUXp3puENcsDSw9WUd8ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280920910766-dhunq8c20qlqvr37eub4h8v2dh307m9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
